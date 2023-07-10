@@ -1,4 +1,4 @@
-###Web3 Slots smart contract
+# Web3 Slots smart contract
 
 I made this example project to practice writing solidity contracts and interacting with web3 wallets via ethers.js.
 This project is a very basic slot machine game and a barebones UI to go with it.
